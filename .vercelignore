@@ -1,0 +1,9 @@
+# Vite dev-server marker: if this gets deployed, @vite points to localhost
+# instead of the compiled CSS/JS in public/build.
+/public/hot
+/public/fonts-manifest.dev.json
+
+# Local-only files
+/node_modules
+/storage/logs
+/.git
